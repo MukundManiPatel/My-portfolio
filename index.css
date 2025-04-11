@@ -54,7 +54,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-.project-list {
+/*.project-list {
     display: flex;
     justify-content: space-around;
 }
@@ -65,7 +65,7 @@ h2 {
     margin: 10px;
     box-shadow: 0 0 10px rgba(49, 45, 45, 0.1);
     width: 30%;
-}
+}*/
 
 .project h3 {
     text-align: center;
